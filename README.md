@@ -1,5 +1,5 @@
 # OpenSource4Health
-This reposity is not meant to create code, but to develop a open source for health manifest. 
+This reposity is not meant to create code, but to develop an open source for health manifest. 
 
 This manifest is about how to bring big change in todays software development in healthcare, to make it fair, affordable and more sustainable than ever before.
 
