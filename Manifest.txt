@@ -1,0 +1,34 @@
+############################################################################################################################################
+Open Source Manifest
+############################################################################################################################################
+
+We believe in sustainable health & care for everyone. That why we believe in open source.
+•	Currency for development over big profits
+•	Transparency in security and privacy over black box software	
+•	Integrations & standards over data silo’s
+•	Proudly copied over not invented here
+Currency for development over big profits
+•	Bij veel softwareleveranciers betaal je, naast initiele kosten, vaak ook nog licentiekosten en uurtje factuurtje voor elke aanpassing die je wilt doen waarbij je van hen afhankelijk bent
+•	Andere centra betalen afzonderlijk weer dezelfde kosten
+•	Open source software heeft deze kosten niet, wel zou je kunnen denken om kostendekkende hosting van hardware resources aan te bieden
+Transparency in security and privacy over black box software
+•	Closed source software is niet te controleren. Denk hierbij aan algoritmes die gebruikt worden bij medisch beleid, privacy vereisten of kwetsbaarheden die door hackers misbruikt kunnen worden.
+•	Wanneer de broncode inzichtelijk is kan er dus wel op bovenstaande voorbeelden gecontroleerd worden en zelfs mogelijke verbeteringen voorgedragen worden
+Your software your data over software dependent data
+•	Wanneer je een derde partij weliswaar onder voorwaarden jouw data laat opslaan dan heb je er geen volledige zicht meer op, zeggenschap meer over, of toegang tot
+•	Een beter alternatief zou zijn om enkel tijdelijke toegang tot selectief stukje van de door jou beheerde data te verlenen welke je altijd kan intrekken 
+Integrations & standards over data silos
+•	Iedere softwareleverancier heeft zijn eigen intepretatie van de gebezigde internationale standaarden en ook van de ontsluiting van deze data.
+•	Voor iedere databron die je zou willen koppelen heb je de specifieke expertise van die leverancier nodig om de vertaalslag te maken
+•	Bij open datadeling, onder strikte toegangseisen, kunnen partners / de community bouwen met gedeelde en dezelfde definities en structuren
+Proudly copied over not invented here
+•	Wanneer de ene instelling een slimme oplossing ontwikkelt (en publiekelijk deelt) waarom zou de ander dan het wiel opnieuw uitvinden
+•	Gedeelde oplossingen die niet geheel naar eigen wens zijn kunnen inspiratie zijn voor een eigen implementatie
+•	Zelfs van ingekochte software kan je eisen dat het open source beschikbaar moet worden gesteld
+
+Our mission
+We want to create a movement that develops software with open source standards, open source source files and prefers sustainable health(care) over profits. We will challenge the status quo and vendor lock-in.
+Onze visie
+Patients and healthcare professionals are drivers of change. They experience, own, the problems that we are currently facing in healthcare. We believe that healthcare’s IT needs to be in support of that experience. This is how we connect the technical world with patients and healthcare professionals, to deliver better solutions for sustainable health and care.
+
+sdf
