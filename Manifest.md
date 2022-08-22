@@ -20,9 +20,8 @@ We believe in sustainable health & care for everyone. That is why we believe in 
 	Voor iedere databron die je zou willen koppelen heb je de specifieke expertise van die leverancier nodig om de vertaalslag te maken
 	Bij open datadeling, onder strikte toegangseisen, kunnen partners / de community bouwen met gedeelde en dezelfde definities en structuren
 5. Proudly copied over not invented here
-	Wanneer de ene instelling een slimme oplossing ontwikkelt (en publiekelijk deelt) waarom zou de ander dan het wiel opnieuw uitvinden
-	Gedeelde oplossingen die niet geheel naar eigen wens zijn kunnen inspiratie zijn voor een eigen implementatie
-	Zelfs van ingekochte software kan je eisen dat het open source beschikbaar moet worden gesteld
+Why should the other reinvent the wheel when one organisation develops a smart solution (and shares it publicly)? Shared solutions that are not entirely 
+to one's liking can be an inspiration for one's implementation. Even purchased software can be required to be made available as open source.
 
 ## about the OS4H movement
 #Our mission
