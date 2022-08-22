@@ -11,8 +11,7 @@ We believe in sustainable health & care for everyone. That is why we believe in 
 	Andere centra betalen afzonderlijk weer dezelfde kosten
 	Open source software heeft deze kosten niet, wel zou je kunnen denken om kostendekkende hosting van hardware resources aan te bieden
 2. Transparency in security and privacy over black box software
-	Closed source software is niet te controleren. Denk hierbij aan algoritmes die gebruikt worden bij medisch beleid, privacy vereisten of kwetsbaarheden die door hackers misbruikt kunnen worden.
-	Wanneer de broncode inzichtelijk is kan er dus wel op bovenstaande voorbeelden gecontroleerd worden en zelfs mogelijke verbeteringen voorgedragen worden
+	Closed source gives little tranparancy when using algorithms or when applying privacy policies to webbased services. When you have full transparancy of the security and privacy of any tool, these measures can be checked, challenged and improved by others.
 3. Independent access to your data over software dependent data
 	Wanneer je een derde partij weliswaar onder voorwaarden jouw data laat opslaan dan heb je er geen volledige zicht meer op, zeggenschap meer over, of toegang tot
 	Een beter alternatief zou zijn om enkel tijdelijke toegang tot selectief stukje van de door jou beheerde data te verlenen welke je altijd kan intrekken
