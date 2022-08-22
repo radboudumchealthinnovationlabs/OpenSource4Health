@@ -1,12 +1,12 @@
 ## the Open Source for Health Manifesto
-We believe in sustainable health & care for everyone. That why we believe in open source. These are our 5 design principles in open source for healthcare (OS4H)
-	1. Currency for development over big profits
+We believe in sustainable health & care for everyone. That is why we believe in open source. These are our 5 design principles in open source for healthcare (OS4H)
+	1. Affordable Healthcare over big profits
 	2. Transparency in security and privacy over black box software	
 	3. Independent access to your data over software dependent data
 	4. Integrations & standards over data silo’s
 	5. Proudly copied over not invented here
 	
-1. Currency for development over big profits
+1. Affordable Healthcare over big profits
 	Bij veel softwareleveranciers betaal je, naast initiele kosten, vaak ook nog licentiekosten en uurtje factuurtje voor elke aanpassing die je wilt doen waarbij je van hen afhankelijk bent
 	Andere centra betalen afzonderlijk weer dezelfde kosten
 	Open source software heeft deze kosten niet, wel zou je kunnen denken om kostendekkende hosting van hardware resources aan te bieden
@@ -49,6 +49,9 @@ De filosofie van Open Health is daarom anders en gebaseerd op openheid, herbruik
 
 Dat wil niet zeggen dat bedrijven geen geld kunnen of mogen verdienen aan ICT in de Zorg. Er wordt alleen geen geld verdient aan gebruiksrecht, maar aan het gebruik en dienstverlening daaromheen.
 Bedrijven werken weer in dienst van de zorg, en niet andersom.
+
+Some examples:
+A hospital wants to use software to exchange data, but this software does not have the right connections to realize the exchange. The hospital hires software developers who build the functionality and the code is made available for the community.
 
 Enkele voorbeelden:
 Een ziekenhuis wil software gebruiken voor informatie uitwisseling, alleen mist bepaalde aansluitingen. 
