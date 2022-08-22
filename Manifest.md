@@ -58,10 +58,3 @@ Er wordt een bedrijf ingehuurd dat ontwikkelaars inzet om die specifieke functie
 Een ziekenhuis sluit een contact af bij een bedrijf dat een specifiek softwarepakket voor het ziekenhuis beschikbaar stelt als SAAS oplossing. Het bedrijf garandeert beschikbaarheid, installatie van updates en upgrades en handelt verstoringen af. Het ziekenhuis betaalt een vast bedrag per gebruik van de module.
 
 
-
-
-Zijn er dan ook nadelen?
-	Als te weinig mensen binnen het Radboudumc meedoen is de kans van slagen klein
-	Als je open-source afdwingt bij softwareleveranciers zal je keuze beperkter zijn
-	Als je zelf software publiceert wil je wel een bepaalde kwaliteit leveren
-
