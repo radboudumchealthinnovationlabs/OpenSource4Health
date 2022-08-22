@@ -7,9 +7,10 @@ We believe in sustainable health & care for everyone. That is why we believe in 
 	5. Proudly copied over not invented here
 	
 1. Affordable Healthcare over big profits
-	Bij veel softwareleveranciers betaal je, naast initiele kosten, vaak ook nog licentiekosten en uurtje factuurtje voor elke aanpassing die je wilt doen waarbij je van hen afhankelijk bent
-	Andere centra betalen afzonderlijk weer dezelfde kosten
-	Open source software heeft deze kosten niet, wel zou je kunnen denken om kostendekkende hosting van hardware resources aan te bieden
+	With many software vendors, in addition to the initial cost, you often pay licensing fees and an hourly rate for any changes you want to make 	
+	where you are dependent on them.
+	Other organizations pay the same costs separately. 
+	Open source software does not have these costs, but you could think of offering cost-recovery hosting of hardware resources
 2. Transparency in security and privacy over black box software
 	Closed source gives little tranparancy when using algorithms or when applying privacy policies to webbased services. When you have full transparancy of the security and privacy of any tool, these measures can be checked, challenged and improved by others.
 3. Independent access to your data over software dependent data
