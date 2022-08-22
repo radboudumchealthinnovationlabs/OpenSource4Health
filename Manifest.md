@@ -17,7 +17,7 @@ We believe in sustainable health & care for everyone. That is why we believe in 
 	Wanneer je een derde partij weliswaar onder voorwaarden jouw data laat opslaan dan heb je er geen volledige zicht meer op, zeggenschap meer over, of toegang tot
 	Een beter alternatief zou zijn om enkel tijdelijke toegang tot selectief stukje van de door jou beheerde data te verlenen welke je altijd kan intrekken
 4. Integrations & standards over data silos
-	Iedere softwareleverancier heeft zijn eigen intepretatie van de gebezigde internationale standaarden en ook van de ontsluiting van deze data.
+	Iedere softwareleverancier heeft zijn eigen interpretatie van de gebezigde internationale standaarden en ook van de ontsluiting van deze data.
 	Voor iedere databron die je zou willen koppelen heb je de specifieke expertise van die leverancier nodig om de vertaalslag te maken
 	Bij open datadeling, onder strikte toegangseisen, kunnen partners / de community bouwen met gedeelde en dezelfde definities en structuren
 5. Proudly copied over not invented here
