@@ -17,9 +17,9 @@ We believe in sustainable health & care for everyone. That is why we believe in 
 	Wanneer je een derde partij weliswaar onder voorwaarden jouw data laat opslaan dan heb je er geen volledige zicht meer op, zeggenschap meer over, of toegang tot
 	Een beter alternatief zou zijn om enkel tijdelijke toegang tot selectief stukje van de door jou beheerde data te verlenen welke je altijd kan intrekken
 4. Integrations & standards over data silos
-	Iedere softwareleverancier heeft zijn eigen interpretatie van de gebezigde internationale standaarden en ook van de ontsluiting van deze data.
-	Voor iedere databron die je zou willen koppelen heb je de specifieke expertise van die leverancier nodig om de vertaalslag te maken
-	Bij open datadeling, onder strikte toegangseisen, kunnen partners / de community bouwen met gedeelde en dezelfde definities en structuren
+	Every software supplier has its own interpretation of the international standards used and also of the accessibility of this data.
+	For each data source you would like to connect, you need the specific expertise of that supplier to make the translation.
+	With open data sharing, under strict access requirements, partners / the community can build with shared and the same definitions and structures
 5. Proudly copied over not invented here
 Why should the other reinvent the wheel when one organisation develops a smart solution (and shares it publicly)? Shared solutions that are not entirely 
 to one's liking can be an inspiration for one's implementation. Even purchased software can be required to be made available as open source.
@@ -32,22 +32,21 @@ We want to create a movement that develops software with open source standards, 
 Patients and healthcare professionals are drivers of change. They experience, own, the problems that we are currently facing in healthcare. We believe that healthcare’s IT needs to be in support of that experience. This is how we connect the technical world with patients and healthcare professionals, to deliver better solutions for sustainable health and care.
 
 #Open sourcecode, open standards
-In de Open Health beweging wordt gewerkt met open broncodes en open standaarden. Dat betekent dat iedereen inzicht heeft in de opbouw van de software en de wijze waarop wordt omgegaan met data (uitwisseling). 
+The Open Health movement works with open source codes and open standards. This means that everyone has insight into the structure of the software and the way in which data is handled (exchange). 
 
-Dat maakt ook dat iedereen kan bijdragen aan het verbeteren van de software en het ontwikkelen van nieuwe functionaliteiten. 
+This also means that everyone can contribute to improving the software and developing new functionalities. 
 
 #Community
-De ontwikkeling vindt plaats binnen de Open Health Community. Een samenwerking tussen gebruiker, ontwikkelaar en supporter. In gezamenlijkheid wordt gewerkt aan producten die het beste aansluiten op de dagelijkse praktijk
+Development takes place within the Open Health Community. A collaboration between user, developer and supporter. Together we work on products that best suit daily practice.
+The software can also be adapted by anyone for different purposes. As a result, users and developers jointly determine the direction and roadmap of the solutions.
 
-Ook kan de software door iedereen aangepast worden voor verschillende doeleinden. Hierdoor bepalen gebruikers en ontwikkelaars in gezamenlijkheid de richting en roadmap van de oplossingen.
+#Open Revenue model
+The current vendor lock-ins are maintained by commercial parties (epic, chipsoft, medimap etc) that use traditional models in which software usage rights are purchased.
+This model does not fit with the basic principles of the Dutch healthcare system: a healthcare system financed in a solliary manner with public funds based on accessibility, quality and affordability for all.
+The philosophy of Open Health is therefore different and based on openness, reusability and transparency. 
 
-#Open verdienmodel
-De huidige vendor lockins worden in stand gehouden door commerciële partijen (epic, chipsoft, medimap etc) die traditionele modellen hanteren waarbij gebruiksrecht van software gekocht wordt.
-Dit model past eigenlijk niet bij de grondbeginselen van de Nederlandse gezondheidszorg: een zorgsysteem op solliadaire wijze gefinancierd met publieke gelden gebaseerd op toegankelijkheid, kwaliteit en betaalbaarheid voor iedereen.
-De filosofie van Open Health is daarom anders en gebaseerd op openheid, herbruikbaarheid en transparantie. 
-
-Dat wil niet zeggen dat bedrijven geen geld kunnen of mogen verdienen aan ICT in de Zorg. Er wordt alleen geen geld verdient aan gebruiksrecht, maar aan het gebruik en dienstverlening daaromheen.
-Bedrijven werken weer in dienst van de zorg, en niet andersom.
+That doesn't mean companies cannot or should not make money from ICT in Healthcare. It's just that they don't make money on user rights, but on the use of and services related to it.
+Companies will once again be working in the service of healthcare, and not the other way around.
 
 Some examples:
 A hospital wants to use software to exchange data, but this software does not have the right connections to realize the exchange. The hospital hires software developers who build the functionality and the code is made available for the community.
