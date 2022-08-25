@@ -1,4 +1,4 @@
-## the Open Source for Health Manifesto
+# the Open Source for Health Manifesto
 We believe in sustainable health & care for everyone. That is why we believe in open source. These are our 5 design principles in open source for healthcare (OS4H)
 	1. Affordable Healthcare over big profits
 	2. Transparency in security and privacy over black box software	
@@ -6,54 +6,44 @@ We believe in sustainable health & care for everyone. That is why we believe in 
 	4. Integrations & standards over data silo’s
 	5. Proudly copied over not invented here
 	
-1. Affordable Healthcare over big profits
+## 1. Affordable Healthcare over big profits
 	With many software vendors, in addition to the initial cost, you often pay licensing fees and an hourly rate for any changes you want to make 	
 	where you are dependent on them.
 	Other organizations pay the same costs separately. 
 	Open source software does not have these costs, but you could think of offering cost-recovery hosting of hardware resources
-2. Transparency in security and privacy over black box software
+## 2. Transparency in security and privacy over black box software
 	Closed source gives little tranparancy when using algorithms or when applying privacy policies to webbased services. When you have full transparancy of the security and privacy of any tool, these measures can be checked, challenged and improved by others.
-3. Independent access to your data over software dependent data
+## 3. Independent access to your data over software dependent data
 	Wanneer je een derde partij weliswaar onder voorwaarden jouw data laat opslaan dan heb je er geen volledige zicht meer op, zeggenschap meer over, of toegang tot
 	Een beter alternatief zou zijn om enkel tijdelijke toegang tot selectief stukje van de door jou beheerde data te verlenen welke je altijd kan intrekken
-4. Integrations & standards over data silos
+## 4. Integrations & standards over data silos
 	Every software supplier has its own interpretation of the international standards used and also of the accessibility of this data.
 	For each data source you would like to connect, you need the specific expertise of that supplier to make the translation.
 	With open data sharing, under strict access requirements, partners / the community can build with shared and the same definitions and structures
-5. Proudly copied over not invented here
+## 5. Proudly copied over not invented here
 Why should the other reinvent the wheel when one organisation develops a smart solution (and shares it publicly)? Shared solutions that are not entirely 
 to one's liking can be an inspiration for one's implementation. Even purchased software can be required to be made available as open source.
 
-## about the OS4H movement
+### about the OS4H movement
 #Our mission
 We want to create a movement that develops software with open source standards, open source source files and prefers sustainable health(care) over profits. We will challenge the status quo and vendor lock-in.
 
-#Our vision
+### Our vision
 Patients and healthcare professionals are drivers of change. They experience, own, the problems that we are currently facing in healthcare. We believe that healthcare’s IT needs to be in support of that experience. This is how we connect the technical world with patients and healthcare professionals, to deliver better solutions for sustainable health and care.
 
-#Open sourcecode, open standards
+### Open sourcecode, open standards
 The Open Health movement works with open source codes and open standards. This means that everyone has insight into the structure of the software and the way in which data is handled (exchange). 
 
 This also means that everyone can contribute to improving the software and developing new functionalities. 
 
-#Community
+### Community
 Development takes place within the Open Health Community. A collaboration between user, developer and supporter. Together we work on products that best suit daily practice.
 The software can also be adapted by anyone for different purposes. As a result, users and developers jointly determine the direction and roadmap of the solutions.
 
-#Open Revenue model
+### Open Revenue model
 The current vendor lock-ins are maintained by commercial parties (epic, chipsoft, medimap etc) that use traditional models in which software usage rights are purchased.
 This model does not fit with the basic principles of the Dutch healthcare system: a healthcare system financed in a solliary manner with public funds based on accessibility, quality and affordability for all.
 The philosophy of Open Health is therefore different and based on openness, reusability and transparency. 
 
 That doesn't mean companies cannot or should not make money from ICT in Healthcare. It's just that they don't make money on user rights, but on the use of and services related to it.
 Companies will once again be working in the service of healthcare, and not the other way around.
-
-Some examples:
-A hospital wants to use software to exchange data, but this software does not have the right connections to realize the exchange. The hospital hires software developers who build the functionality and the code is made available for the community.
-
-Enkele voorbeelden:
-Een ziekenhuis wil software gebruiken voor informatie uitwisseling, alleen mist bepaalde aansluitingen. 
-Er wordt een bedrijf ingehuurd dat ontwikkelaars inzet om die specifieke functies te bouwen en beschikbaar te maken in de community. Er wordt betaald voor de inhuur van de developers 
-Een ziekenhuis sluit een contact af bij een bedrijf dat een specifiek softwarepakket voor het ziekenhuis beschikbaar stelt als SAAS oplossing. Het bedrijf garandeert beschikbaarheid, installatie van updates en upgrades en handelt verstoringen af. Het ziekenhuis betaalt een vast bedrag per gebruik van de module.
-
-
