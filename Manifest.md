@@ -46,3 +46,14 @@ The philosophy of Open Health is therefore different and based on openness, reus
 
 That doesn't mean companies cannot or should not make money from ICT in Healthcare. It's just that they don't make money on user rights, but on the use of and services related to it.
 Companies will once again be working in the service of healthcare, and not the other way around.
+<<<<<<< Updated upstream
+=======
+
+Some examples:
+A hospital wants to use software to exchange data, but this software does not have the right connections to realize the exchange. The hospital hires software developers who build the functionality and the code is made available for the community.
+
+Some examples:
+A hospital wants to use software for information exchange, only it lacks certain connections. 
+A company is hired to use developers to build those specific features and make them available in the community. The developers are paid for their services. 
+A hospital contracts with a company that makes a specific software package available to the hospital as a SAAS solution. The company guarantees availability, installation of updates and upgrades, and handles disruptions. The hospital pays a fixed amount per use of the module.
+>>>>>>> Stashed changes
