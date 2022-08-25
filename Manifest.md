@@ -48,10 +48,6 @@ That doesn't mean companies cannot or should not make money from ICT in Healthca
 Companies will once again be working in the service of healthcare, and not the other way around.
 <<<<<<< Updated upstream
 =======
-
-Some examples:
-A hospital wants to use software to exchange data, but this software does not have the right connections to realize the exchange. The hospital hires software developers who build the functionality and the code is made available for the community.
-
 Some examples:
 A hospital wants to use software for information exchange, only it lacks certain connections. 
 A company is hired to use developers to build those specific features and make them available in the community. The developers are paid for their services. 
