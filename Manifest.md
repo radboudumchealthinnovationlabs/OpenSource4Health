@@ -11,7 +11,7 @@ With many software vendors, in addition to the initial cost, you often pay licen
 That means vendors of commonly used software earn a lot of money because they can sell a single change multiple times. Open source software does not have these costs, the business model focusess on hosting and services and not on development of new features
 
 ## 2. Transparency in security and privacy over black box software
-Closed source gives little tranparancy when using algorithms or when applying privacy policies to webbased services. When you have full transparancy of the security and privacy of any tool, these measures can be checked, challenged and improved by others.
+Closed source gives little transparancy when using algorithms or when applying privacy policies to webbased services. When you have full transparancy of the security and privacy of any tool, these measures can be checked, challenged and improved by others.
 
 ## 3. Independent access to your data over software dependent data
 When you have  third party software handling and/or storing your data (even under certain conditions) with closed source software, you lose full and limitless insight, control and access. 
