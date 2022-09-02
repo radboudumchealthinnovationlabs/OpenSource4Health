@@ -1,4 +1,4 @@
-# the Open Source for Health Manifesto
+# The Open Source for Health Manifesto
 We believe in sustainable health & care for everyone. That is why we believe in open source. These are our 5 design principles in open source for healthcare (OS4H)
 1. Affordable healthcare over big profits
 2. Transparency in security and privacy over black box software	
